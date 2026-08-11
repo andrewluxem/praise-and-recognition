@@ -1,0 +1,23 @@
+{
+  "name": "praise-and-recognition",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Drafts evidence-bound private or public recognition notes without inventing impact or consent. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "praise-and-recognition",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Drafts evidence-bound private or public recognition notes without inventing impact or consent. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "praise",
+        "recognition-notes"
+      ]
+    }
+  ]
+}
