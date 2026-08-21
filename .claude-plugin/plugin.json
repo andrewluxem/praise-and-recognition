@@ -1,0 +1,17 @@
+{
+  "name": "praise-and-recognition",
+  "version": "1.0.0",
+  "description": "Drafts evidence-bound private or public recognition notes without inventing impact or consent. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/praise-and-recognition",
+  "repository": "https://github.com/andrewluxem/praise-and-recognition",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "praise",
+    "recognition-notes"
+  ]
+}
